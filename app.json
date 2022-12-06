@@ -24,10 +24,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mrasyidhaikal.cryptoprice"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "29440246-2239-4094-938c-c1b48724c4d4"
+      }
     }
   }
 }
